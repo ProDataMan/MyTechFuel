@@ -1,4 +1,4 @@
-# Jira-Essentials-with-Agile-Mindset
+# Jira Essentials with Agile Mindset
 
 # Day 1: Introduction to Atlassian Jira and Agile Project Management
 
