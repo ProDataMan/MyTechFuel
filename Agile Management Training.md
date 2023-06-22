@@ -1,6 +1,7 @@
 ## Course Description: Agile Project Management for Managers and Business Leaders
+Agile Leadership: Driving Business Value through Adaptive Project Management Practices
 
-Agile Project Management for Managers and Business Leaders is a comprehensive 2-day course designed to equip managers and business professionals with the knowledge and skills to effectively manage Agile projects and teams. This course focuses on providing participants with a deep understanding of Agile principles, methodologies, and their business implications.
+Agile Leadership: Driving Business Value through Adaptive Project Management Practices is a comprehensive 2-day course designed to equip managers and business professionals with the knowledge and skills to effectively manage Agile projects and teams. This course focuses on providing participants with a deep understanding of Agile principles, methodologies, and their business implications.
 
 Participants will learn how Agile practices can drive efficiency, collaboration, and customer value in project delivery. They will gain insights into Agile project management frameworks such as Scrum and Kanban, and explore techniques for prioritization, planning, and tracking progress in an Agile environment.
 
