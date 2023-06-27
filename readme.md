@@ -1,6 +1,7 @@
 # Course List
 
-- [Scrum Master Project Manager/Product Owner](#)
+- [Scrum Master Project Manager](#)
+- [Product Owner](#)
 - [Jira Automation](#)
 - [Jira Essentials with Agile Mindset](#)
 - [Getting More from Jira Workflows](#)
