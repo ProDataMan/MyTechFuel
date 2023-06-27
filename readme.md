@@ -1,7 +1,7 @@
 # Course List
 
 - [Scrum Master Project Manager](#)
-- [Product Owner](#)
+- [Product Owner]([#](https://github.com/ProDataMan/Technical-Courses/blob/089f6f4cce7073c4942854b12014a17090e59f66/Certified%20Scrum%20Product%20Owner.md))
 - [Jira Automation](#)
 - [Jira Essentials with Agile Mindset](#)
 - [Getting More from Jira Workflows](#)
