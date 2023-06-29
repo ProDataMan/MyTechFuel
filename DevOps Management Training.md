@@ -1,4 +1,4 @@
-## Course Description: DevOps for Managers and Business Leaders
+## DevOps for Managers and Business Leaders
 DevOps Leadership: Driving Business Transformation through Effective Technology Practices
 
 DevOps Leadership: Driving Business Transformation through Effective Technology Practices is a comprehensive 2-day course designed to provide managers and business professionals with a solid understanding of DevOps principles, practices, and their business implications. This course focuses on equipping participants with the knowledge and skills to effectively lead and drive DevOps initiatives within their organizations.
