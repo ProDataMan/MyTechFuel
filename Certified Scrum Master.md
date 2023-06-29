@@ -1,4 +1,4 @@
-# Course Outline: Certified Scrum Master (CSM)
+# Certified Scrum Master (CSM)
 
 **Course Information:**
 
