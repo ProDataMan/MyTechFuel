@@ -1,4 +1,4 @@
-## Course Description: DevOps Essentials: Building Efficient Software Delivery Pipelines
+## DevOps Essentials: Building Efficient Software Delivery Pipelines
 
 DevOps Essentials: Building Efficient Software Delivery Pipelines is a comprehensive 2-day course designed to equip participants with the knowledge and skills to effectively manage and implement DevOps practices within their organizations. This course focuses on the principles, tools, and methodologies essential for successful DevOps adoption.
 
