@@ -39,12 +39,14 @@ Hands-on exercises and group activities will be conducted during the sessions to
 **Topic / Module Breakdown:**
 
 Day 1:
+
 1. Introduction to Scrum and the Product Owner role
 2. Product Owner Core Competencies
 3. Goal Setting and Planning
 4. Understanding Customers and Users
 
 Day 2:
+
 5. Validating Product Assumptions
 6. Working with the Product Backlog
 7. Collaboration and Communication
