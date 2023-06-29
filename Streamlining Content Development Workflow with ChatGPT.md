@@ -1,4 +1,4 @@
-## Workshop Title: Streamlining Content Development Workflow with ChatGPT
+## Streamlining Content Development Workflow with ChatGPT
 
 ## Course Information
 
