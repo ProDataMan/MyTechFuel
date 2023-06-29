@@ -1,4 +1,4 @@
-# Course Outline: Certified Scrum Product Owner (CSPO)
+# Certified Scrum Product Owner (CSPO)
 
 ## Course Information
 
