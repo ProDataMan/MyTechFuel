@@ -18,9 +18,9 @@
 
 ## Infrastructure
 - [Linux fundamentals - for sys admins](#)
-- [Docker/swarm fundamentals - for sys admins (They have internal Kubernetes and Rancher containers experts)](#)
+- [Docker/swarm fundamentals - for sys admins](#)
 
-- [SD-WAN Practical Application (prefer lots of hands-on, Arista & Cisco -> could be packet tracer!!!!)](#)
+- [SD-WAN Practical Application](#)
 - [SDN Spine Leaf (prefer hands-on) Best Practices](#)
 - [SDN Spine Leaf (prefer hands-on) Best Practices Level 2 course](#)
 - [SDN Spine Leaf (prefer hands-on) Best Practices Level 3 course](#)
