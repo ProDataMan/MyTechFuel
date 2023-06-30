@@ -11,7 +11,7 @@
 - [Jira Automation](https://github.com/ProDataMan/Technical-Courses/blob/main/Jira%20Automation.md)
 - [Jira Essentials with Agile Mindset](https://github.com/ProDataMan/Technical-Courses/blob/main/Jira%20Essentials%20with%20Agile%20Mindset.md)
 - [Getting More from Jira Workflows](https://github.com/ProDataMan/Technical-Courses/blob/main/Getting%20More%20from%20Jira%20Workflows.md)
-- [Jira and Confluence Together](#)
+- [Jira and Confluence Together](https://github.com/ProDataMan/Technical-Courses/blob/main/Jira%20and%20Confluence%20Together.md)
 - [Managing Jira Project](#)
 - [Planning with Advanced Roadmaps](#)
 - [Realizing the Power of Jira Reporting and Dashboards](#)
