@@ -8,7 +8,7 @@
 - [Streamling Content Developnent with ChatGPT](https://github.com/ProDataMan/Technical-Courses/blob/main/Streamlining%20Content%20Development%20Workflow%20with%20ChatGPT.md)
 
 ## Jira
-- [Jira Automation](#)
+- [Jira Automation](https://github.com/ProDataMan/Technical-Courses/blob/main/Jira%20Automation.md)
 - [Jira Essentials with Agile Mindset](https://github.com/ProDataMan/Technical-Courses/blob/main/Jira%20Essentials%20with%20Agile%20Mindset.md)
 - [Getting More from Jira Workflows](#)
 - [Jira and Confluence Together](#)
