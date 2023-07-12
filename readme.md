@@ -1,3 +1,7 @@
+# Boot Camps
+
+# [Amazon Hunter](https://github.com/ProDataMan/Technical-Courses/blob/47ac464da43a2977cc7298b5c5b31db4afb23394/AmazonHunter.md)
+
 # Course List
 
 ## Managing Work
