@@ -37,6 +37,7 @@ Upon completion of this course, participants will be able to:
 - OCA LMS
 
 **Daily Content Outline:**
+
 Day 1:
 - Traditional vs Cloudy datacenters, computing, and management
 - Security Fundamentals
@@ -85,6 +86,7 @@ Upon completion of this course, participants will be able to:
 - Hand-On Lab environment
 
 **Daily Content Outline:**
+
 Day 1/2:
 - Subnetting Review, OSI model, encapsulation, Wireshark basics
 
@@ -195,6 +197,7 @@ Upon completion of this course, participants will be able to:
 - Hand-On Lab environment
 
 **Daily Content Outline:**
+
 Day 1:
 - Introduction, Linux architecture overview, shells
 
@@ -247,6 +250,7 @@ Upon completion of this course, participants will be able to:
 - Reference book
 
 **Daily Content Outline:**
+
 Day 1:
 - CIA triad, Security roles and responsibilities, absolute truths of security
 
@@ -296,6 +300,7 @@ Upon completion of this course, participants will be able to:
 - Hands-on performance-based exercises
 
 **Daily Content Outline:**
+
 Day 1:
 - Exam objectives review, practice exams, practice performance-based exercises
 
@@ -345,6 +350,7 @@ Upon completion of this course, participants will be able to:
 - Practice Exams
 
 **Daily Content Outline:**
+
 Day 1:
 - Understanding AWS global infrastructure
 
@@ -393,6 +399,7 @@ Upon completion of this course, participants will be able to:
 **Materials and Media References:** None
 
 **Daily Content Outline:**
+
 Day 1:
 - Agile Basics Overview
 
@@ -438,6 +445,7 @@ Upon completion of this course, participants will be able to:
 **Materials and Media References:** None
 
 **Daily Content Outline:**
+
 Day 1:
 - AWS Cloud hands-on labs
 
@@ -481,6 +489,7 @@ Upon completion of this course, participants will be able to:
 **Materials and Media References:** None
 
 **Daily Content Outline:**
+
 Day 1:
 - AWS Cloud practice test review and homework
 
@@ -529,6 +538,7 @@ Upon completion of this course, participants will be able to:
 **Materials and Media References:** None
 
 **Daily Content Outline:**
+
 Day 1:
 - Introduction to strengths
 - Strengths Finder Assessment
