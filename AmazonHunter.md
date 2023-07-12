@@ -1,4 +1,4 @@
-# Course Outline: Amazon Hunter Bootcamp
+# Amazon Hunter Bootcamp
 
 ## 1.0 Amazon Hunter
 
