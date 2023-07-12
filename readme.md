@@ -1,12 +1,13 @@
 # Boot Camps
 
-# [Amazon Hunter](https://github.com/ProDataMan/Technical-Courses/blob/47ac464da43a2977cc7298b5c5b31db4afb23394/AmazonHunter.md)
+# [Amazon Hunter](https://github.com/ProDataMan/Technical-Courses/blob/main/AmazonHunter.md)
 
 # Course List
 
 ## Managing Work
 - [Scrum Master Project Manager](https://github.com/ProDataMan/Technical-Courses/blob/main/Certified%20Scrum%20Master.md)
 - [Scrum Product Owner](https://github.com/ProDataMan/Technical-Courses/blob/main/Certified%20Scrum%20Product%20Owner.md)
+- [Scrum Developer](#)
 - [Agile Management Training](https://github.com/ProDataMan/Technical-Courses/blob/main/Agile%20Management%20Training.md)
 - [DevOps Management Training](https://github.com/ProDataMan/Technical-Courses/blob/main/DevOps%20Management%20Training.md)
 - [Streamling Content Developnent with ChatGPT](https://github.com/ProDataMan/Technical-Courses/blob/main/Streamlining%20Content%20Development%20Workflow%20with%20ChatGPT.md)
