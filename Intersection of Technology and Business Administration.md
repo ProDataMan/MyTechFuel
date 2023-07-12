@@ -1,4 +1,4 @@
-# Course Outline: Intersection of Technology and Business Administration
+# Intersection of Technology and Business Administration
 
 **Course Information:**
 
