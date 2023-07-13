@@ -31,7 +31,7 @@
 - [Linux fundamentals - for sys admins](#)
 - [Docker/swarm fundamentals - for sys admins](https://github.com/ProDataMan/Technical-Courses/blob/main/Docker%20and%20Swarm%20Fundamentals%20for%20Sys%20Admins.md)
 
-- [SD-WAN Practical Application](#)
-- [SDN Spine Leaf (prefer hands-on) Best Practices](#)
-- [SDN Spine Leaf (prefer hands-on) Best Practices Level 2 course](#)
-- [SDN Spine Leaf (prefer hands-on) Best Practices Level 3 course](#)
+- [SD-WAN Practical Application](https://github.com/ProDataMan/Technical-Courses/blob/main/SD-WAN%20Practical%20Application.md)
+- [SDN Spine Leaf (prefer hands-on) Best Practices](https://github.com/ProDataMan/Technical-Courses/blob/main/SDN%20Spine%20Leaf%20Best%20Practices.md)
+- [SDN Spine Leaf (prefer hands-on) Best Practices Level 2 course](https://github.com/ProDataMan/Technical-Courses/blob/main/SDN%20Spine%20Leaf%20Best%20Practices%20Level%202.md)
+- [SDN Spine Leaf (prefer hands-on) Best Practices Level 3 course](https://github.com/ProDataMan/Technical-Courses/blob/main/SDN%20Spine%20Leaf%20Best%20Practices%20Level%203.md)
