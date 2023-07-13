@@ -29,7 +29,7 @@
 ## Infrastructure
 - [Intro to Ansible](https://github.com/ProDataMan/Technical-Courses/blob/main/Intro%20to%20Ansible.md)
 - [Linux fundamentals - for sys admins](#)
-- [Docker/swarm fundamentals - for sys admins](#)
+- [Docker/swarm fundamentals - for sys admins](https://github.com/ProDataMan/Technical-Courses/blob/main/Docker%20and%20Swarm%20Fundamentals%20for%20Sys%20Admins.md)
 
 - [SD-WAN Practical Application](#)
 - [SDN Spine Leaf (prefer hands-on) Best Practices](#)
