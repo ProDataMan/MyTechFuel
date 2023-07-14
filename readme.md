@@ -15,6 +15,7 @@
 - [Agile Management Training](https://github.com/ProDataMan/Technical-Courses/blob/main/Agile%20Management%20Training.md)
 - [DevOps Management Training](https://github.com/ProDataMan/Technical-Courses/blob/main/DevOps%20Management%20Training.md)
 - [Streamling Content Developnent with ChatGPT](https://github.com/ProDataMan/Technical-Courses/blob/main/Streamlining%20Content%20Development%20Workflow%20with%20ChatGPT.md)
+- [Prompt engineering with Chat GPT]()
 - [Intersection of Technology and Business Administration](https://github.com/ProDataMan/Technical-Courses/blob/main/Intersection%20of%20Technology%20and%20Business%20Administration.md)
 
 ## Jira
