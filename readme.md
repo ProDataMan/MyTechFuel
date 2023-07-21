@@ -48,5 +48,3 @@
 - [SDN Spine Leaf (prefer hands-on) Best Practices](https://github.com/ProDataMan/Technical-Courses/blob/main/SDN%20Spine%20Leaf%20Best%20Practices.md)
 - [SDN Spine Leaf (prefer hands-on) Best Practices Level 2 course](https://github.com/ProDataMan/Technical-Courses/blob/main/SDN%20Spine%20Leaf%20Best%20Practices%20Level%202.md)
 - [SDN Spine Leaf (prefer hands-on) Best Practices Level 3 course](https://github.com/ProDataMan/Technical-Courses/blob/main/SDN%20Spine%20Leaf%20Best%20Practices%20Level%203.md)
-
-Feel free to use this GitHub markdown to present your course list with clickable hyperlinks! 🚀📚 #TechCourses #Training #Education #Cybersecurity #Development #Infrastructure #Jira #Agile #SDN #SDWAN #ChatGPT #PromptEngineering #SysAdmins
