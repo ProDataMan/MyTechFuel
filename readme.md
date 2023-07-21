@@ -28,7 +28,7 @@
 - [Realizing the Power of Jira Reporting and Dashboards](https://github.com/ProDataMan/Technical-Courses/blob/main/Realizing%20the%20Power%20of%20Jira%20Reporting%20and%20Dashboards.md)
 
 ## Security
-- [Security Strategic Planning, Policy, and Leadership](#)
+- [Security Strategic Planning, Policy, and Leadership](https://github.com/ProDataMan/Technical-Courses/blob/main/000272%20-%20Security%20Strategic%20Planning%20-%20Policy%20-%20and%20Leadership.md)
 
 ## Infrastructure
 - [Intro to Ansible](https://github.com/ProDataMan/Technical-Courses/blob/main/Intro%20to%20Ansible.md)
