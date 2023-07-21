@@ -29,7 +29,7 @@
 
 ## Security
 - [Security Strategic Planning, Policy, and Leadership](https://github.com/ProDataMan/Technical-Courses/blob/main/000272%20-%20Security%20Strategic%20Planning%20-%20Policy%20-%20and%20Leadership.md)
-
+- [Fundamentals of Information and Security Controls](https://github.com/ProDataMan/Technical-Courses/blob/main/000271%20-%20Fundamentals%20of%20Information%20and%20Security%20Controls.md)
 ## Infrastructure
 - [Intro to Ansible](https://github.com/ProDataMan/Technical-Courses/blob/main/Intro%20to%20Ansible.md)
 - [Linux fundamentals - for sys admins](#)
