@@ -1,4 +1,4 @@
-# Fundamentals of Information and Security Controls (Course Number: 000271)
+# Fundamentals of Information and Security Controls (000271)
 
 **Learning Path:** Information Security  
 **Length:** 16 Hours
