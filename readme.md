@@ -27,6 +27,9 @@
 - [Planning with Advanced Roadmaps](https://github.com/ProDataMan/Technical-Courses/blob/main/Planning%20with%20Advanced%20Roadmaps%20with%20Jira.md)
 - [Realizing the Power of Jira Reporting and Dashboards](https://github.com/ProDataMan/Technical-Courses/blob/main/Realizing%20the%20Power%20of%20Jira%20Reporting%20and%20Dashboards.md)
 
+## Security
+- [Security Strategic Planning, Policy, and Leadership](#)
+
 ## Infrastructure
 - [Intro to Ansible](https://github.com/ProDataMan/Technical-Courses/blob/main/Intro%20to%20Ansible.md)
 - [Linux fundamentals - for sys admins](#)
