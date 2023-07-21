@@ -1,10 +1,9 @@
 # Boot Camps
 
-# [Amazon Hunter](https://github.com/ProDataMan/Technical-Courses/blob/main/AmazonHunter.md)
-# [Azure Defender](#)
-# [DevSecOps](#)
-# [Cyber Infiltrator](#)
-
+- [Amazon Hunter](https://github.com/ProDataMan/Technical-Courses/blob/main/AmazonHunter.md)
+- [Azure Defender](#)
+- [DevSecOps](#)
+- [Cyber Infiltrator](#)
 
 # Course List
 
@@ -14,8 +13,12 @@
 - [Scrum Developer](#)
 - [Agile Management Training](https://github.com/ProDataMan/Technical-Courses/blob/main/Agile%20Management%20Training.md)
 - [DevOps Management Training](https://github.com/ProDataMan/Technical-Courses/blob/main/DevOps%20Management%20Training.md)
-- [Streamling Content Developnent with ChatGPT](https://github.com/ProDataMan/Technical-Courses/blob/main/Streamlining%20Content%20Development%20Workflow%20with%20ChatGPT.md)
-- [Prompt engineering with Chat GPT](https://github.com/ProDataMan/Technical-Courses/blob/main/Chat%20GPT%20prompt%20engineering.md)
+
+## ChatGPT and Prompt Engineering
+- [Streamlining Content Development with ChatGPT](https://github.com/ProDataMan/Technical-Courses/blob/main/Streamlining%20Content%20Development%20Workflow%20with%20ChatGPT.md)
+- [Prompt Engineering with Chat GPT](https://github.com/ProDataMan/Technical-Courses/blob/main/Chat%20GPT%20prompt%20engineering.md)
+
+## Intersection of Technology and Business Administration
 - [Intersection of Technology and Business Administration](https://github.com/ProDataMan/Technical-Courses/blob/main/Intersection%20of%20Technology%20and%20Business%20Administration.md)
 
 ## Jira
@@ -30,15 +33,20 @@
 ## Development
 - [Behavior Driven Development](https://github.com/ProDataMan/Technical-Courses/blob/main/Behavior%20Driven%20Development.md)
 - [Test Driven Development](https://github.com/ProDataMan/Technical-Courses/blob/main/Test%20Driven%20Development.md)
+
 ## Security
 - [Security Strategic Planning, Policy, and Leadership](https://github.com/ProDataMan/Technical-Courses/blob/main/000272%20-%20Security%20Strategic%20Planning%20-%20Policy%20-%20and%20Leadership.md)
 - [Fundamentals of Information and Security Controls](https://github.com/ProDataMan/Technical-Courses/blob/main/000271%20-%20Fundamentals%20of%20Information%20and%20Security%20Controls.md)
+
 ## Infrastructure
 - [Intro to Ansible](https://github.com/ProDataMan/Technical-Courses/blob/main/Intro%20to%20Ansible.md)
-- [Linux fundamentals - for sys admins](#)
-- [Docker/swarm fundamentals - for sys admins](https://github.com/ProDataMan/Technical-Courses/blob/main/Docker%20and%20Swarm%20Fundamentals%20for%20Sys%20Admins.md)
+- [Linux Fundamentals - for Sys Admins](#)
+- [Docker/Swarm Fundamentals - for Sys Admins](https://github.com/ProDataMan/Technical-Courses/blob/main/Docker%20and%20Swarm%20Fundamentals%20for%20Sys%20Admins.md)
 
+## SDN and SD-WAN
 - [SD-WAN Practical Application](https://github.com/ProDataMan/Technical-Courses/blob/main/SD-WAN%20Practical%20Application.md)
 - [SDN Spine Leaf (prefer hands-on) Best Practices](https://github.com/ProDataMan/Technical-Courses/blob/main/SDN%20Spine%20Leaf%20Best%20Practices.md)
 - [SDN Spine Leaf (prefer hands-on) Best Practices Level 2 course](https://github.com/ProDataMan/Technical-Courses/blob/main/SDN%20Spine%20Leaf%20Best%20Practices%20Level%202.md)
 - [SDN Spine Leaf (prefer hands-on) Best Practices Level 3 course](https://github.com/ProDataMan/Technical-Courses/blob/main/SDN%20Spine%20Leaf%20Best%20Practices%20Level%203.md)
+
+Feel free to use this GitHub markdown to present your course list with clickable hyperlinks! 🚀📚 #TechCourses #Training #Education #Cybersecurity #Development #Infrastructure #Jira #Agile #SDN #SDWAN #ChatGPT #PromptEngineering #SysAdmins
