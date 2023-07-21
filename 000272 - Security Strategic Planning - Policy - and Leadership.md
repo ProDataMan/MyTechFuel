@@ -1,4 +1,4 @@
-# Security Strategic Planning, Policy, and Leadership (Course Number: 000272)
+# Security Strategic Planning, Policy, and Leadership (000272)
 
 **Learning Path:** Information Security  
 **Length:** 40 Hours
