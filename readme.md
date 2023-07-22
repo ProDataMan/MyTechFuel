@@ -17,7 +17,7 @@
 ## ChatGPT and Prompt Engineering
 - [Streamlining Content Development with ChatGPT](https://github.com/ProDataMan/Technical-Courses/blob/main/Streamlining%20Content%20Development%20Workflow%20with%20ChatGPT.md)
 - [Prompt Engineering with Chat GPT](https://github.com/ProDataMan/Technical-Courses/blob/main/Chat%20GPT%20prompt%20engineering.md)
-
+- [Artificial Intelligence with Deep Learning Workshop](https://github.com/ProDataMan/Technical-Courses/blob/main/Artificial%20Intelligence%20with%20Deep%20Learning%20Workshop.md)
 ## Intersection of Technology and Business Administration
 - [Intersection of Technology and Business Administration](https://github.com/ProDataMan/Technical-Courses/blob/main/Intersection%20of%20Technology%20and%20Business%20Administration.md)
 
