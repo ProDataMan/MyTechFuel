@@ -2,8 +2,7 @@
 
 ## 1.0 Amazon Hunter
 
-### 1.1 Course Name: Introduction to Cyber Security and Cloud
-
+### 1.1 [Introduction to Cyber Security and Cloud](https://github.com/ProDataMan/Technical-Courses/blob/main/Introduction%20to%20Cyber%20Security%20and%20Cloud.md)
 **Subject Description:**
 Introduction to Cyber Security and Cloud provides participants with a high-level overview of the entire Cyber Cloud pathway, touching on both Security and Cloud foundational concepts. The course covers computer architecture, operating systems, security of cloud managed datacenters, and how they differ from traditional datacenter computing environments. Through lectures and labs, participants gain a perspective on operating and configuring secure cloud computing environments.
 
