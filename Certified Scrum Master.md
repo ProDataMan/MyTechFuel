@@ -41,12 +41,14 @@ Hands-on exercises, simulations, and group activities will be conducted during t
 **Topic / Module Breakdown:**
 
 Day 1:
+
 1. Introduction to Agile and Scrum
 2. Scrum Framework and Roles
 3. Scrum Master Role and Responsibilities
 4. Scrum Events: Sprint Planning and Daily Scrum
 
 Day 2:
+
 5. Scrum Events: Sprint Review and Sprint Retrospective
 6. Product Backlog Management
 7. Facilitating Collaboration and Self-Organization
