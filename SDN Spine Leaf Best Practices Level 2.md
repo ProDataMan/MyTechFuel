@@ -4,7 +4,9 @@
 
 - Duration: 3 days (12 sessions)
 - Delivery: Live, remote, instructor-led
-- Prerequisites: Completion of SDN Spine Leaf Best Practices course or equivalent knowledge and experience in SDN Spine Leaf architecture
+
+**Prerequisites:**
+Completion of SDN Spine Leaf Best Practices course or equivalent knowledge and experience in SDN Spine Leaf architecture
 
 **Course Overview:**
 
