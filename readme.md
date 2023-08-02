@@ -7,7 +7,7 @@
 - [Cyber Infiltrator](#)
 
 # Webinars
-- [Embracing DevOps Culture for Effective Leadership]()
+- [Embracing DevOps Culture for Effective Leadership](https://github.com/ProDataMan/Technical-Courses/blob/main/Webinar-Embracing%20DevOps%20Culture%20for%20Effective%20Leadership.md)
 - [Understanding the core principles of DevOps]()
 - [Overview of Agile methodologies (Scrum, Kanban, etc.)]()
 - [Aligning DevOps practices with business objectives]()
