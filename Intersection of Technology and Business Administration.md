@@ -1,3 +1,4 @@
+![My Tech Fuel](https://github.com/ProDataMan/MyTechFuel/blob/main/img/My%20Tech%20Fuel%20Logo.png)
 # Intersection of Technology and Business Administration
 
 **Course Information:**
