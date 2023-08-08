@@ -1,5 +1,4 @@
 ![My Tech Fuel](img/My Tech Fuel Logo.png)
-![My Tech Fuel](https://github.com/ProDataMan/MyTechFuel/img/My%20Tech%20Fuel%20Logo.png)
 
 # Boot Camps
 
