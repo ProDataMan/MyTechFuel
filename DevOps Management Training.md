@@ -1,3 +1,4 @@
+![My Tech Fuel](https://github.com/ProDataMan/MyTechFuel/blob/main/img/My%20Tech%20Fuel%20Logo.png)
 ## DevOps for Managers and Business Leaders
 DevOps Leadership: Driving Business Transformation through Effective Technology Practices
 
