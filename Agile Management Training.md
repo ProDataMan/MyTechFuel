@@ -1,3 +1,4 @@
+![My Tech Fuel](https://github.com/ProDataMan/MyTechFuel/blob/main/img/My%20Tech%20Fuel%20Logo.png)
 ## Agile Project Management for Managers and Business Leaders
 Agile Leadership: Driving Business Value through Adaptive Project Management Practices
 
