@@ -1,4 +1,4 @@
-![My Tech Fuel]("img/My Tech Fuel Logo.png")
+![[My Tech Fuel]("img/My Tech Fuel Logo.png")](https://github.com/ProDataMan/MyTechFuel/blob/c923d8d63a8a348730988eaf25e876e8b78f7cb9/img/My%20Tech%20Fuel%20Logo.png)
 
 # Boot Camps
 
